@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "name": "Mexico",
+        "summary": "La historia de Mexico desde su independencia hasta hoy.",
+        "stage": [
+            {
+                "year": 1810,
+                "event": "Independencia de Mexico",
+                "description": "La Independencia de México fue la consecuencia de un proceso político y social resuelto con las armas, que puso fin al dominio español en la mayor parte de los territorios de Nueva España. La guerra por la independencia mexicana tuvo su antecedente en la invasión de Francia a España en 1808 y se extendió desde el Grito de Dolores, el 16 de septiembre de 1810, hasta la entrada del Ejército Trigarante a la Ciudad de México, el 27 de septiembre de 1821."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Carrera espacial",
+        "summary": "Los Acontecimientos mas relevantes sobre los viajes al espacio.",
+        "stage": [
+            {
+                "year": 1810,
+                "event": "Independencia de Mexico",
+                "description": "La Independencia de México fue la consecuencia de un proceso político y social resuelto con las armas, que puso fin al dominio español en la mayor parte de los territorios de Nueva España. La guerra por la independencia mexicana tuvo su antecedente en la invasión de Francia a España en 1808 y se extendió desde el Grito de Dolores, el 16 de septiembre de 1810, hasta la entrada del Ejército Trigarante a la Ciudad de México, el 27 de septiembre de 1821."
+            }
+        ]
+    }
+]

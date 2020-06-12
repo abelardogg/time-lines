@@ -1,11 +1,11 @@
 import {combineReducers, createStore} from 'redux';
 import undoable from './reducers/undoable';
-import timeLineReducer from './reducers/timeLine';
+import timeLineReducer from './reducers/timeline';
 
 const initialState = {};
-const undoableTimeLine = undoable(timeLineReducer);
+const undoableTimeline = undoable(timeLineReducer);
 export const rootReducers = combineReducers({
-    undoableTimeLine
+    undoableTimeline
 });
 
 export function configureStore(initialState = {}){
