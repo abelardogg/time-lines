@@ -11,10 +11,10 @@ class Timeline extends React.Component {
     render() {
         return(<>
             <Row>
-                <Col xs={4} style={{borderRight: '1px solid #ccc'}}>
+                <Col xs={3} style={{borderRight: '1px solid #ccc'}}>
                     <Archive/>
                 </Col>
-                <Col xs={8}>
+                <Col xs={9}>
                     <Display/>
                 </Col>
             </Row>

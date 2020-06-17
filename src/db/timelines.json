@@ -6,8 +6,15 @@
         "stage": [
             {
                 "year": 1810,
+                "date": "16 de septiembre de 1810-27 de septiembre de 1821",
                 "event": "Independencia de Mexico",
                 "description": "La Independencia de México fue la consecuencia de un proceso político y social resuelto con las armas, que puso fin al dominio español en la mayor parte de los territorios de Nueva España. La guerra por la independencia mexicana tuvo su antecedente en la invasión de Francia a España en 1808 y se extendió desde el Grito de Dolores, el 16 de septiembre de 1810, hasta la entrada del Ejército Trigarante a la Ciudad de México, el 27 de septiembre de 1821."
+            },
+            {
+                "year": 1910,
+                "date": "20 de noviembre de 1910-1917",
+                "event": "Revolucion Mexicana",
+                "description": "La Revolución mexicana fue un conflicto armado que se inició en México el 20 de noviembre de 1910. Los antecedentes del conflicto se remontan a la situación de México bajo la dictadura conocida como el porfiriato. Porfirio Díaz ejerció el poder en el país de manera dictatorial desde 1876 hasta 1911."
             }
         ]
     },
@@ -17,9 +24,10 @@
         "summary": "Los Acontecimientos mas relevantes sobre los viajes al espacio.",
         "stage": [
             {
-                "year": 1810,
-                "event": "Independencia de Mexico",
-                "description": "La Independencia de México fue la consecuencia de un proceso político y social resuelto con las armas, que puso fin al dominio español en la mayor parte de los territorios de Nueva España. La guerra por la independencia mexicana tuvo su antecedente en la invasión de Francia a España en 1808 y se extendió desde el Grito de Dolores, el 16 de septiembre de 1810, hasta la entrada del Ejército Trigarante a la Ciudad de México, el 27 de septiembre de 1821."
+                "year": 1961,
+                "date": "12 de abril de 1961",
+                "event": "Primer vuelo espacial humano",
+                "description": "El primer vuelo espacial humano fue el Vostok 1 el 12 de abril de 1961; El cosmonauta soviético Yuri Gagarin hizo una órbita alrededor de la Tierra; después del éxito del vuelo, el ingeniero jefe del programa Vostok sugirió la preparación de mujeres cosmonautas; Valentina Tereshkova se convirtió en la primera mujer en el espacio a bordo de la Vostok 6 el 16 de junio de 1963. "
             }
         ]
     }

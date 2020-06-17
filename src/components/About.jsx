@@ -2,7 +2,7 @@ import React from 'react';
 import { connect } from 'react-redux';
 import {
     setActive
-} from '../redux/actions/timeLine';
+} from '../redux/actions/timeline';
 
 class About extends React.Component {
     constructor(props){
